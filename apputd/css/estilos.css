@@ -1,0 +1,41 @@
+img{
+    width: 8rem;
+    height: 7rem;
+    margin-bottom: 5%;
+}
+img .cerrar{
+    width: 3rem;
+    height: 2rem;
+    display: flex;
+    align-content: flex-end;
+}
+td input{
+    text-align: left;
+}
+body{
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    background: linear-gradient(125deg, rgb(250, 225, 83) 10%, rgb(112, 255, 255));
+    
+}
+.login{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 11%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 23%;
+    padding: 30px 0 30px 0;
+
+}
+.login table{
+    margin: 0 auto;
+    text-align: left;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-align: center;
+}
